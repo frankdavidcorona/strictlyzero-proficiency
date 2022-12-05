@@ -1,0 +1,14 @@
+{
+  "name": "strictlyzero-onboarding",
+  "version": "1.0.0",
+  "description": "Basic Proficiency for new Developers on Strictly Zero",
+  "main": "fizzbuzz.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Frank Corona <frank.corona@strictlyzero.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "29.3.1"
+  }
+}
