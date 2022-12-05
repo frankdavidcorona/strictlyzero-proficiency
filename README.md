@@ -45,6 +45,7 @@ npm run install
 ```sh
 npm run basic
 npm run fizzbuzz
+npm run kata
 npm run test
 ```
 
