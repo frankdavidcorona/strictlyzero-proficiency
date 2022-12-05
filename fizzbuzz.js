@@ -18,4 +18,8 @@ function FizzBuzz(num) {
   }
 }
 
+// Prompt the output
+console.log(FizzBuzz(25));
+
+// Export the FizzBuzz function
 module.exports = FizzBuzz;
