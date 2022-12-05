@@ -6,7 +6,8 @@
   "scripts": {
     "test": "jest",
     "fizzbuzz": "node fizzbuzz.js",
-    "basic": "node basic.js"
+    "basic": "node basic.js",
+    "kata": "node kata.js"
   },
   "author": "Frank Corona <frank.corona@strictlyzero.com>",
   "license": "ISC",
