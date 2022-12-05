@@ -4,7 +4,9 @@
   "description": "Basic Proficiency for new Developers on Strictly Zero",
   "main": "fizzbuzz.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "fizzbuzz": "node fizzbuzz.js",
+    "basic": "node basic.js"
   },
   "author": "Frank Corona <frank.corona@strictlyzero.com>",
   "license": "ISC",
